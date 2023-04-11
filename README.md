@@ -1,0 +1,2 @@
+# MYRules
+All about rules
